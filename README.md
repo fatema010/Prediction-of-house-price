@@ -48,7 +48,7 @@ and real estate professionals in property valuation and decision-making.
 
 ## Model Selection
 
-- Various machine learning algorithms, including Linear Regression, Decision Trees, and Random Forests, are considered.
+- Machine learning algorithms, like Linear Regression, are considered.
 
 - The model selection is based on performance metrics, interpretability, and generalization to new data.
 
